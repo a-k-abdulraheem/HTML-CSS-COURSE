@@ -1,0 +1,25 @@
+.div {
+    font-family: Arial;
+    text-align: center;
+}
+
+.image {
+    width: 190px;
+}
+
+.text-box {
+    width: 400px;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.text {
+    display: inline-block;
+    background-color: rgb(224, 224, 224);
+    padding: 8px 16px;
+    margin-right: 5px;
+    margin-top: 30px;
+}

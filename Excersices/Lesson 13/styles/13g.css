@@ -1,0 +1,57 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+    width: 400px;
+    padding: 10px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+}
+
+.profile-picture {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 10px;
+}
+
+.username {
+    color: grey;
+}
+
+.tweet {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.youtube-link{
+    width: 340px;
+    height: 100px;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.youtube-link-picture {
+    background-color: rgb(196, 196, 196);
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.youtube-link-decription {
+    flex: 1;
+    line-height: 22px;
+}
+
+.link {
+    display: block;
+    color: grey;
+}

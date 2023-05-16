@@ -1,0 +1,29 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.span-price {
+    font-size: 35px;
+}
+
+.span-currency {
+    color: grey;
+}
+
+.today {
+    margin-top: 4px;
+    font-size: 17px;
+    color: green;
+    margin-bottom: 7px;
+}
+
+.after-hours {
+    font-size: 17px;
+    color: grey ;
+}
+
+.span-after-hours {
+    color: red;
+}

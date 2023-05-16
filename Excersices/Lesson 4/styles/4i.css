@@ -1,0 +1,12 @@
+.stretch-button{
+    background-color: green;
+    color: white;
+    padding: 8px 15px;
+    font-size: 17px;
+    border: none;
+    transition: padding 1s;
+}
+
+.stretch-button:hover{
+    padding: 18px 36px;
+}

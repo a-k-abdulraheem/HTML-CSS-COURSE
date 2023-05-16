@@ -1,0 +1,26 @@
+.outer-div {
+    display: flex;
+    height: 50px;
+}
+
+.inner1-div {
+    background-color: lightpink;
+    width: 100px;
+}
+
+.inner2-div {
+    background-color: lightblue;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.row2-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row2-text {
+    background-color: black;
+    color: white;
+}

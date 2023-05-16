@@ -1,0 +1,25 @@
+p {
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.email-textbox {
+    width: 365px;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.agree-button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 130px;
+    font-size: 20px;
+    margin-top: 15px;
+}

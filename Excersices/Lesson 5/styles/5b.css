@@ -1,0 +1,14 @@
+.text1 {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.text2 {
+    font-family: arial;
+    color: red;
+    font-style: italic;
+    font-size: 21px;
+    margin-top: 0px;
+}

@@ -1,0 +1,37 @@
+body {
+    font-family: Arial;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(105, 46, 147);
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home {
+    color: white;
+    padding: 10px 20px;
+}
+
+.search-box {
+    width: 380px;
+    padding: 6px 16px;
+    border: none;
+    border-radius: 20px;
+}
+
+.download {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.download-button {
+    background-color: rgb(105, 46, 147);
+    color: white;
+    border: 1px solid white;
+    padding: 8px 16px;
+    border-radius: 2px;
+}

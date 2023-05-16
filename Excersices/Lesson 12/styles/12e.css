@@ -1,0 +1,25 @@
+.flexbox {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border-radius: 4px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    padding: 8px 12px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.number {
+    font-family: Arial;
+    padding: 2px 9px;
+    border-radius: 12px;
+    background-color: rgb(49, 109, 245);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}

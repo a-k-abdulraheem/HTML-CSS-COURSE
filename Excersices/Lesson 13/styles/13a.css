@@ -1,0 +1,22 @@
+.outer-div {
+    display: flex;
+    height: 50px;
+}
+
+.inner1-div {
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    background-color: black;
+    color: white;
+}
+
+.inner2-div {
+    background-color: lightblue;
+    width: 200px;
+}

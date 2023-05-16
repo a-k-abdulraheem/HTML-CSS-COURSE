@@ -1,0 +1,19 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Arial;
+}
+
+.span-text1 {
+    color: grey;
+}
+
+.text2 {
+    margin-top: 8px;
+    margin-bottom: 18px;
+    width: 500px;
+}
+
+.span-text3 {
+    color: deepskyblue;
+}

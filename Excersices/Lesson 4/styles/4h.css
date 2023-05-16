@@ -1,0 +1,11 @@
+.back-next-button{
+    padding: 10px 8px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.number{
+    margin-left: 6px;
+    margin-right: 6px;
+    cursor: pointer;
+}
